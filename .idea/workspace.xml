@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7213378f-e14c-4d6d-b867-8d397253ed3a" name="Default Changelist" comment="ДЗ 3">
-      <change afterPath="$PROJECT_DIR$/src/lasson3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lasson3/Task2.java" afterDir="false" />
+    <list default="true" id="7213378f-e14c-4d6d-b867-8d397253ed3a" name="Default Changelist" comment="ДЗ 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1Y1sBWKAeMbvIKf3atni8Io5yOi" />
   <component name="ProjectViewState">
@@ -31,10 +29,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Task2 (1)">
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="Task1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lasson3.Task1" />
       <module name="HomeWork" />
@@ -54,19 +53,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lasson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson2.Task3" />
-      <module name="HomeWork" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,13 +86,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.TicTacToe" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task2 (1)" />
+        <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Task1 (1)" />
+        <item itemvalue="Application.Task2 (1)" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -128,74 +127,105 @@
       <option name="project" value="LOCAL" />
       <updated>1582462459049</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ДЗ 3">
+      <created>1582970511719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582970511719</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ДЗ 4">
+      <created>1583251063885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583251063886</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ДЗ 2" />
     <MESSAGE value="ДЗ 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 3" />
+    <MESSAGE value="ДЗ 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="454" y="23" key="CommitChangelistDialog2" timestamp="1582970490944">
+    <state x="392" y="87" key="#Notifications" timestamp="1583251109413">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1582970490944" />
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1582970491008">
+    <state x="392" y="87" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1583251109413" />
+    <state x="454" y="23" key="CommitChangelistDialog2" timestamp="1583251062521">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582970491008" />
-    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1582970491008">
+    <state x="454" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583251062521" />
+    <state x="152" y="66" width="1280" height="688" key="DiffContextDialog" timestamp="1583250799386">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582970491008" />
-    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1582970491008">
+    <state x="152" y="66" width="1280" height="688" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1583250799386" />
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1583250815410">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582970491008" />
-    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1582970491008">
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583250815410" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1583250815410">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582970491008" />
-    <state width="1556" height="270" key="GridCell.Tab.1.bottom" timestamp="1582903281148">
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583250815410" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1583250815409">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="270" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582903281148" />
-    <state width="1556" height="270" key="GridCell.Tab.1.center" timestamp="1582903281148">
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583250815409" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1583250815410">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="270" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1582903281148" />
-    <state width="1556" height="270" key="GridCell.Tab.1.left" timestamp="1582903281148">
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583250815410" />
+    <state width="1556" height="270" key="GridCell.Tab.1.bottom" timestamp="1583247592514">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="270" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1582903281148" />
-    <state width="1556" height="270" key="GridCell.Tab.1.right" timestamp="1582903281148">
+    <state width="1556" height="270" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583247592514" />
+    <state width="1556" height="270" key="GridCell.Tab.1.center" timestamp="1583247592513">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1556" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1582903281148" />
+    <state width="1556" height="270" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583247592513" />
+    <state width="1556" height="270" key="GridCell.Tab.1.left" timestamp="1583247592513">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583247592513" />
+    <state width="1556" height="270" key="GridCell.Tab.1.right" timestamp="1583247592514">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583247592514" />
     <state x="301" y="61" key="SettingsEditor" timestamp="1582822312860">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1582822312860" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1582462463433">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1583250906981">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1582462463433" />
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1582822619265">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1583250906981" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1583044094360">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1582822619265" />
-    <state x="609" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582970395266">
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583044094360" />
+    <state x="609" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583250936587">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="609" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1582970395266" />
-    <state x="506" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1582821947721">
+    <state x="609" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1583250936587" />
+    <state x="530" y="184" key="extract.method.dialog" timestamp="1583044995375">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="506" y="48" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1582821947721" />
-    <state x="456" y="190" key="run.anything.popup" timestamp="1582820747450">
+    <state x="530" y="184" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1583044995375" />
+    <state x="609" y="329" key="git4idea.ui.GitStashDialog" timestamp="1583250926799">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="456" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1582820747450" />
+    <state x="609" y="329" key="git4idea.ui.GitStashDialog/0.0.1600.860@0.0.1600.860" timestamp="1583250926799" />
+    <state x="506" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1583073046425">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="48" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1583073046425" />
+    <state x="456" y="190" key="run.anything.popup" timestamp="1583158890638">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1583158890638" />
   </component>
 </project>
