@@ -50,6 +50,13 @@ public class Cat {
 
 
     }
+    public static void catEat(Plate plate, Cat[] catArr) {
+        for (int i = 0; i < catArr.length; i++) {
+            catArr[i].eat(plate);
+            plate.info();
+
+        }
+    }
 }
 
 

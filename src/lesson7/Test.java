@@ -16,7 +16,7 @@ public class Test {
 
 
         plate.info();
-        catEat(plate, catArr);
+        Cat.catEat(plate, catArr);
         plate.addFood(20); //Observer
         plate.info();
 
@@ -24,13 +24,13 @@ public class Test {
     }
 
     //не получилось перебор массива перенести в класс Cat
-    private static void catEat(Plate plate, Cat[] catArr) {
+   /* private static void catEat(Plate plate, Cat[] catArr) {
         for (int i = 0; i < catArr.length; i++) {
             catArr[i].eat(plate);
             plate.info();
 
         }
-    }
+    }*/
 }
 
 
